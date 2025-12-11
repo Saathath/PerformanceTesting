@@ -1,0 +1,7 @@
+install
+pip instal locust, pyyaml, requests
+
+how to run
+locust -f locustfile.py
+ or
+locust -f locustfile.py --tags create/update...
